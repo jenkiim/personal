@@ -4,7 +4,6 @@
 
 # Problem Set 3
 # Name: Jennifer kim
-# Collaborators: Tissany Chen
 
 # Purpose: Check for similarity between two texts by comparing different kinds of word statistics.
 
